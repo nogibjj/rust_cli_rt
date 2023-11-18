@@ -9,6 +9,8 @@ The Command-Line Card Shuffler is a Rust-based application designed to simulate 
 Getting Started
 To run this application, clone the repository and navigate to the project directory. Use the following commands for various actions:
 
+<img width="778" alt="Screenshot 2023-11-17 at 7 37 38 PM" src="https://github.com/nogibjj/rust_cli_rt/assets/143838819/bf5ccb3e-41fd-4b97-8f16-95457699c05b">
+
 Format Code: make format
 Lint: make lint
 Run Tests: make test
